@@ -1,9 +1,9 @@
 About
 -----
 
-kobocat is the data collection platform used in KoBoToolbox. It is based on the excellent `onadata <http://github.com/onaio/onadata>`_ platform developed by Ona LLC, which in itself is a redevelopment of the `formhub <http://github.com/SEL-Columbia/formhub>`_ platform developed by the Sustainable Engineering Lab at Columbia University.
+kobocat is the data collection platform used in MobilApp. It is based on the excellent `onadata <http://github.com/onaio/onadata>`_ platform developed by Ona LLC, which in itself is a redevelopment of the `formhub <http://github.com/SEL-Columbia/formhub>`_ platform developed by the Sustainable Engineering Lab at Columbia University.
 
-Please refer to `dist-kobo-devel <https://github.com/davarcobani/dist-kobo-devel>`_ for  instructions on how to install KoBoToolbox.
+Please refer to `dist-kobo-devel <https://github.com/davarcobani/dist-kobo-devel>`_ for  instructions on how to install MobilApp.
 
 Code Structure
 --------------
